@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\AuthenticationController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -17,3 +18,4 @@ Route::get('/', function () {
     return view('landing.page.page1');
 });
 
+Route::get('/login', [AuthenticationController::class, 'login']);

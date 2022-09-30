@@ -67,7 +67,7 @@
               <li><a href="#contact">Contact</a></li>
     
               <li>
-                <a href="">Login</a>
+                <a href="/login">Login</a>
               </li>
             </ul>
           </div><!--/.nav-collapse -->
@@ -114,7 +114,7 @@
           </div>
   
           <div class="col-md-12 col-sm-12 copyright">
-            <h6>&copy; MePro 2015 All right reserved. Designed by Suave Digital</h6>
+            <h6>&copy; MePro 2022 All right reserved</h6>
           </div>
         </div><!--/.container -->
       </section>

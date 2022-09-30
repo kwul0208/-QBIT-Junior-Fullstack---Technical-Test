@@ -462,40 +462,40 @@
       <!-- Clients Section End  -->
       <br><br>
   
-      <!-- Map Section Begin  -->
-      <section class="map map-alt" id="contact">
-        <div class="container-fluid nopad-h">
-          <div class="col-md-6 nopad-h">
-            <div class="map-canvas" id="map-canvas"></div>
-          </div>
-          <div class="col-md-6 nopad-h">
-            <div class="footer-form">
-              <div class="title section-title text-center wow animated fadeIn">
-                <div class="title-icon-container">
-                  <div class="title-icon"><i class="pe-7s-rocket pe-2x pe-va"></i></div>
+        <!-- Map Section Begin  -->
+        <section class="map map-alt" id="contact">
+            <div class="container-fluid nopad-h">
+            <div class="col-md-6 nopad-h">
+                <div class="map-canvas" id="map-canvas"></div>
+            </div>
+            <div class="col-md-6 nopad-h">
+                <div class="footer-form">
+                <div class="title section-title text-center wow animated fadeIn">
+                    <div class="title-icon-container">
+                    <div class="title-icon"><i class="pe-7s-rocket pe-2x pe-va"></i></div>
+                    </div>
+                    <h1>Get In Touch</h1>
+                    <h2>With Us</h2>
                 </div>
-                <h1>Get In Touch</h1>
-                <h2>With Us</h2>
-              </div>
-              <div id="notification"></div>
-              <form role="form" method="post" action="https://demo.suavedigital.com/MePro/contact.php" id="contactform">
-                <div class="col-md-12 input-container wow animated fadeIn" data-wow-delay="0.2s">
-                  <input type="text" name="name" id="name" class="form-control" placeholder="Name">
-                </div>
-                <div class="col-md-12 input-container wow animated fadeIn" data-wow-delay="0.2s">
-                  <input type="email" name="email" id="email" class="form-control" placeholder="Email">
-                </div>
-                <div class="col-md-12 textarea-container wow animated fadeIn" data-wow-delay="0.2s">
-                  <textarea name="message" class="form-control" id="message" placeholder="Your Message Here"></textarea>
-                </div>
-                <div class="col-md-12 button-container wow animated fadeIn" data-wow-delay="0.2s">
-                  <input type="submit" class="submit-btn def-btn" value="Send Message">
-                </div>
-              </form>
-            </div><!--/.footer-form -->
-          </div>
-        </div><!--/.container-fluid -->
-    </section><!--/.map-alt -->
-      <!-- Map Section End  -->
+                <div id="notification"></div>
+                <form role="form" method="post" action="https://demo.suavedigital.com/MePro/contact.php" id="contactform">
+                    <div class="col-md-12 input-container wow animated fadeIn" data-wow-delay="0.2s">
+                    <input type="text" name="name" id="name" class="form-control" placeholder="Name">
+                    </div>
+                    <div class="col-md-12 input-container wow animated fadeIn" data-wow-delay="0.2s">
+                    <input type="email" name="email" id="email" class="form-control" placeholder="Email">
+                    </div>
+                    <div class="col-md-12 textarea-container wow animated fadeIn" data-wow-delay="0.2s">
+                    <textarea name="message" class="form-control" id="message" placeholder="Your Message Here"></textarea>
+                    </div>
+                    <div class="col-md-12 button-container wow animated fadeIn" data-wow-delay="0.2s">
+                    <input type="submit" class="submit-btn def-btn" value="Send Message">
+                    </div>
+                </form>
+                </div><!--/.footer-form -->
+            </div>
+            </div><!--/.container-fluid -->
+            </section><!--/.map-alt -->
+        <!-- Map Section End  -->
   
 @endsection

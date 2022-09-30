@@ -67,7 +67,12 @@
               <li><a href="#contact">Contact</a></li>
     
               <li>
-                <a href="/login">Login</a>
+                @guest
+                  <a href="/login">Login</a>  
+                @endguest
+                @auth
+                    <a href="/dashboard">Dashboard</a>
+                @endauth
               </li>
             </ul>
           </div><!--/.nav-collapse -->

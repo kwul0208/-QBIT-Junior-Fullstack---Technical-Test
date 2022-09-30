@@ -17,5 +17,25 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('landing.page.page1');
 });
+Route::get('/home', function () {
+    return view('landing.page.page1');
+});
 
-Route::get('/login', [AuthenticationController::class, 'login']);
+Route::group([
+    'middleware' => 'auth'
+], function(){
+    // Route::get('/logn', [AuthenticationController::class, 'login']);
+    Route::get('/dashboard', function(){
+        return 'dashboard';
+    });
+
+});
+
+Route::group([
+    'middleware' => 'guest'
+], function(){
+    Route::get('/login', [AuthenticationController::class, 'login'])->name('login');
+    Route::post('/login', [AuthenticationController::class, 'storeLogin']);
+});
+
+

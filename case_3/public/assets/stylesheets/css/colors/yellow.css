@@ -1,0 +1,547 @@
+/*==========================================*/
+/*           Color Schemes
+/*==========================================*/
+/*==========================================*/
+/*            Global Elements
+/*==========================================*/
+a {
+  color: #f9bf3b;
+}
+a:hover {
+  color: #f9bf3b;
+}
+
+.section-title .title-icon-container .title-icon {
+  background: #f9bf3b;
+}
+
+.pagination-wrap .pagination li a {
+  color: #333;
+}
+.pagination-wrap .pagination li a.active, .pagination-wrap .pagination li a:hover {
+  border-color: #f9bf3b;
+  background: #f9bf3b;
+}
+
+.title h2 {
+  color: #f9bf3b;
+}
+
+.def-input:focus {
+  border: 1px solid #f9bf3b;
+}
+
+.def-form:hover, .def-form:focus {
+  border: 1px solid #f9bf3b;
+}
+
+.underlined-heading:after {
+  background: #f9bf3b;
+}
+
+.shop-item .image .love {
+  background: #f9bf3b;
+}
+
+.iconic-column .icon i {
+  color: #f9bf3b;
+}
+.iconic-column .icon:after {
+  background: #f9bf3b;
+}
+
+/*==========================================*/
+/*            Navbar Elements
+/*==========================================*/
+.navbar-inverse.scroll-fixed-navbar .navbar-nav li:hover a, .navbar-inverse.scroll-fixed-navbar-fix .navbar-nav li:hover a {
+  color: #f9bf3b;
+}
+.navbar-inverse.scroll-fixed-navbar .navbar-nav li.active a, .navbar-inverse.scroll-fixed-navbar-fix .navbar-nav li.active a {
+  color: #f9bf3b;
+}
+.navbar-inverse.scroll-fixed-navbar .navbar-nav li.active a:hover, .navbar-inverse.scroll-fixed-navbar-fix .navbar-nav li.active a:hover {
+  color: #f9bf3b;
+}
+.navbar-inverse.scroll-fixed-navbar .navbar-nav li.dropdown .dropdown-menu li a:hover, .navbar-inverse.scroll-fixed-navbar-fix .navbar-nav li.dropdown .dropdown-menu li a:hover {
+  color: #f9bf3b;
+}
+.navbar-inverse .navbar-nav li a.cart .cart-icon .cart-number {
+  background: #f9bf3b;
+}
+.navbar-inverse .navbar-nav .dropdown.open a:hover, .navbar-inverse .navbar-nav .dropdown.open a:focus {
+  color: #f9bf3b;
+}
+.navbar-inverse .navbar-nav .dropdown .dropdown-menu li a:hover {
+  color: #f9bf3b;
+}
+
+/*==========================================*/
+/*            Banner Elements
+/*==========================================*/
+.banner .banner-content .buttons .def-btn:hover {
+  color: #f9bf3b;
+  border-bottom: 1px solid #f9bf3b;
+}
+.banner.banner-breadcrumb .banner-content ul li a:hover {
+  color: #f9bf3b;
+}
+.banner.carousel .left .control .shape:hover i, .banner.carousel .right .control .shape:hover i {
+  color: #f9bf3b;
+}
+.banner.carousel .carousel-inner .item .overlay {
+  background: #f9bf3b;
+}
+.banner.carousel .carousel-inner .item .content .text-content .button-wrap .btn-outline:hover {
+  color: #f9bf3b;
+}
+
+/*==========================================*/
+/*              About Elements
+/*==========================================*/
+.about .content .icon i {
+  color: #f9bf3b;
+}
+.about .center .slick-prev, .about .center .slick-next {
+  border: 1px solid #f9bf3b;
+}
+.about .center .slick-prev:hover, .about .center .slick-next:hover {
+  background: #f9bf3b;
+}
+.about .center .slick-prev:hover:before, .about .center .slick-next:hover:before {
+  color: #ffffff;
+}
+.about .center .slick-prev:before {
+  color: #f9bf3b;
+}
+.about .center .slick-next:before {
+  color: #f9bf3b;
+}
+.about .more ul a:hover {
+  color: #f9bf3b;
+}
+
+/*==========================================*/
+/*             Testimonial Elements
+/*==========================================*/
+.testimonial .carousel .carousel-control .control-circle:hover {
+  border: 1px solid #f9bf3b;
+}
+.testimonial .carousel .carousel-control .control-circle:hover .fa {
+  color: #f9bf3b;
+}
+.testimonial.testimonial-alt .testimonial-alt-content .owl-controls .owl-pagination .owl-page.active span {
+  background: #f9bf3b;
+}
+
+/*==========================================*/
+/*             Counter Elements
+/*==========================================*/
+.counter h3 {
+  color: #f9bf3b;
+}
+
+/*==========================================*/
+/*             Portfolio Elements
+/*==========================================*/
+.portfolio .portfoliofilter a.current .filterbutton {
+  background: #f9bf3b;
+  border: 1px solid #f9bf3b;
+}
+.portfolio .portfoliofilter a:hover .filterbutton {
+  color: #f9bf3b;
+  border: 1px solid #f9bf3b;
+}
+.portfolio .portfoliocontent .content .overlay:hover {
+  background: rgba(249, 191, 59, 0.9);
+}
+
+/*==========================================*/
+/*             Why Me Elements
+/*==========================================*/
+.why-me .skills .skillbars .bar-container .meter {
+  background: #f9bf3b;
+}
+.why-me .skills .skillbars .bar-container .meter:after {
+  border-left: 20px solid #f9bf3b;
+}
+.why-me.why-me-alt .skillbar-wrap .icon i {
+  color: #f9bf3b;
+}
+.why-me.why-me-alt .skillbar-wrap .bar-and-text .bar .filled {
+  background: #f9bf3b;
+}
+.why-me.why-me-alt .skillbar-wrap .bar-and-text .bar .filled:after {
+  border-top: 5px solid #f9bf3b;
+}
+
+/*==========================================*/
+/*      Education & Employment Elements
+/*==========================================*/
+.timeline > li .timeline-icon {
+  background: #f9bf3b;
+}
+.timeline > li .timeline-label .place {
+  color: #f9bf3b;
+}
+
+/*==========================================*/
+/*        Pricing Elements
+/*==========================================*/
+.pricing .pricing-table .price {
+  background: #f9bf3b;
+}
+.pricing .pricing-table .list .def-btn {
+  border: 1px solid #f9bf3b;
+  border-color: #f9bf3b;
+  color: #f9bf3b;
+}
+.pricing .pricing-table .list .def-btn:hover {
+  background: #f9bf3b;
+}
+
+/*==========================================*/
+/*            Journal Elements
+/*==========================================*/
+.journal .journal-content .media .quote {
+  background: #f9bf3b;
+}
+.journal .journal-content .detail {
+  border-top: 5px solid #f9bf3b;
+}
+.journal .journal-content .detail .category {
+  background: #f9bf3b;
+}
+.journal .journal-content .detail .title h3 {
+  color: #f9bf3b;
+}
+.journal .journal-content .detail .title h3:hover {
+  color: #f7af0a;
+}
+.journal .journal-content .detail .info a:hover {
+  color: #f9bf3b;
+}
+.journal.journal-alt .news-column .image .content .def-btn:hover {
+  border-color: #f9bf3b;
+}
+.journal.journal-alt .news-column:nth-child(1):after {
+  border-bottom: 45px solid #f9bf3b;
+}
+.journal.journal-alt .news-column:nth-child(1):hover:after {
+  border-top: 45px solid #f9bf3b;
+}
+.journal.journal-alt .news-column:nth-child(2):after {
+  border-bottom: 45px solid #f9bf3b;
+}
+.journal.journal-alt .news-column:nth-child(2):hover:after {
+  border-top: 45px solid #f9bf3b;
+}
+.journal.journal-alt .news-column:nth-child(3):after {
+  border-top: 45px solid #f9bf3b;
+}
+.journal.journal-alt .news-column:nth-child(3):hover:after {
+  border-bottom: 45px solid #f9bf3b;
+}
+.journal.journal-alt .news-column:nth-child(4):after {
+  border-top: 45px solid #f9bf3b;
+}
+.journal.journal-alt .news-column:nth-child(4):hover:after {
+  border-bottom: 45px solid #f9bf3b;
+}
+
+/*==========================================*/
+/*             Clients Element
+/*==========================================*/
+.clients.clients-alt {
+  background: #f9bf3b;
+}
+
+/*==========================================*/
+/*             Map Elements
+/*==========================================*/
+.map .map-title {
+  background: #f9bf3b;
+}
+.map.map-alt .footer-form .input-container .form-control:focus {
+  border-color: #f9bf3b;
+}
+.map.map-alt .footer-form .textarea-container textarea:focus {
+  border-color: #f9bf3b;
+}
+.map.map-alt .footer-form .button-container .def-btn {
+  color: #f9bf3b;
+  border: 1px solid #f9bf3b;
+}
+.map.map-alt .footer-form .button-container .def-btn:hover, .map.map-alt .footer-form .button-container .def-btn:focus {
+  background: #f9bf3b;
+  color: #ffffff;
+}
+
+/*==========================================*/
+/*             Contact Elements
+/*==========================================*/
+.contact #success_page {
+  border: 1px solid #f9bf3b;
+}
+.contact #success_page h3 {
+  color: #f9bf3b;
+}
+.contact .error_message {
+  border: 1px solid #f9bf3b;
+}
+.contact .footer-form .input-container .form-control:focus {
+  border: 1px solid #f9bf3b;
+}
+.contact .footer-form .textarea-container textarea:focus {
+  border: 1px solid #f9bf3b;
+}
+.contact .footer-form .button-container .def-btn {
+  border: 1px solid #f9bf3b;
+  color: #f9bf3b;
+}
+.contact .footer-form .button-container .def-btn:hover {
+  background: #f9bf3b;
+}
+
+/*==========================================*/
+/*            Footer Elements
+/*==========================================*/
+.footer {
+  border-top: 5px solid #f9bf3b;
+}
+.footer .top-text {
+  background: #f9bf3b;
+}
+.footer .links .social-icons .circle {
+  border: 1px solid #f9bf3b;
+}
+.footer .links .social-icons .circle .fa {
+  color: #f9bf3b;
+}
+.footer .links .social-icons .circle:hover {
+  background: #f9bf3b;
+}
+
+/*==========================================*/
+/*         Portfolio Single Elements
+/*==========================================*/
+.portfolio-single .carousel .carousel-control .control-button:hover {
+  background: #f9bf3b;
+}
+.portfolio-single .description .def-btn:hover {
+  background: #f9bf3b;
+}
+
+/*==========================================*/
+/*          Journal List Elements
+/*==========================================*/
+.journal-list .top-search .search-wrap input:focus {
+  border-color: #f9bf3b;
+}
+.journal-list .journal-content .detail {
+  border-top: 5px solid #f9bf3b;
+}
+.journal-list .journal-content .detail .category {
+  background: #f9bf3b;
+}
+.journal-list .journal-content .detail .title h3 {
+  color: #f9bf3b;
+}
+.journal-list .journal-content .detail .title h3:hover {
+  color: #f7af0a;
+}
+.journal-list .journal-content .detail .info a:hover {
+  color: #f9bf3b;
+}
+
+/*==========================================*/
+/*          Journal Single Elements
+/*==========================================*/
+.journal-detail .post-single .respond .row .form-control:focus {
+  border: 1px solid #f9bf3b;
+}
+.journal-detail .post-single .respond .row textarea:focus {
+  border: 1px solid #f9bf3b;
+}
+.journal-detail .post-single .respond .row .def-btn:hover {
+  background: #f9bf3b;
+}
+
+.journal-sidebar .title .shape {
+  background: #f9bf3b;
+}
+.journal-sidebar .content ul li:hover {
+  border-bottom: 1px solid #f9bf3b;
+}
+.journal-sidebar .content ul li:hover a {
+  color: #f9bf3b;
+}
+.journal-sidebar .search-post .content .search-wrap input:focus {
+  border-color: #f9bf3b;
+}
+.journal-sidebar .recent-post .content ul li span {
+  color: #f9bf3b;
+}
+.journal-sidebar .post-tags .tag-label:hover {
+  background: #f9bf3b;
+  border: 2px solid #f9bf3b;
+}
+
+/*==========================================*/
+/*       Shop List Elements
+/*==========================================*/
+.featured-shop .shop-row .shop-most-description .def-btn:hover {
+  background: #f9bf3b;
+  border: 1px solid #f9bf3b;
+}
+
+.shop-item .image .overlay .links .circle:hover {
+  border: 1px solid #f9bf3b;
+  background: #f9bf3b;
+}
+.shop-item .image .overlay .links .circle:hover .fa {
+  color: #ffffff;
+}
+
+.shop-newsletter .left-content .title h3 {
+  border-top: 1px solid #f9bf3b;
+}
+
+.shop-sidebar-nav .title .shape {
+  background: #f9bf3b;
+  border: 1px solid #f9bf3b;
+}
+.shop-sidebar-nav .content ul li:hover a {
+  color: #f9bf3b;
+}
+.shop-sidebar-nav .shop-search .content .input-group input:focus {
+  border-color: #f9bf3b;
+}
+.shop-sidebar-nav .shop-search .content .input-group .input-group-btn .btn {
+  background: #f9bf3b;
+  border: 1px solid #f9bf3b;
+}
+
+/*==========================================*/
+/*       Shop Single Elements
+/*==========================================*/
+.shop-single-showcase .add-to-cart:hover {
+  background: #f9bf3b;
+}
+
+.product-tab .nav li a:hover {
+  background: #f9bf3b;
+}
+.product-tab .product-detail .shop-respond .row input:focus, .product-tab .product-detail .shop-respond .row textarea:focus {
+  border: 1px solid #f9bf3b;
+}
+.product-tab .product-detail .shop-respond .row .button-outer .def-btn:hover {
+  background: #f9bf3b;
+  border: 1px solid #f9bf3b;
+}
+
+/*==========================================*/
+/*       Shop Cart Elements
+/*==========================================*/
+.shop-cart .cart-table tfoot .right-buttons a.continue-shopping {
+  background: #f9bf3b;
+}
+.shop-cart .cart-table tfoot .right-buttons a.continue-shopping:hover {
+  background: #f7af0a;
+}
+.shop-cart .cart-coupon-total .cart-coupon .def-btn:hover {
+  background: #f9bf3b;
+}
+.shop-cart .cart-coupon-total .cart-total .proceed-checkout td a {
+  background: #f9bf3b;
+}
+.shop-cart .cart-coupon-total .cart-total .proceed-checkout td a:hover {
+  background: #f7af0a;
+}
+
+/*==========================================*/
+/*       Shop Checkout Elements
+/*==========================================*/
+.checkout-form .title-icon {
+  background: #f9bf3b;
+}
+.checkout-form .right-form .cards li i:hover {
+  color: #f9bf3b;
+}
+
+/*==========================================*/
+/*       Shop Login & Register Elements
+/*==========================================*/
+.shop-login .title-icon, .shop-register .title-icon {
+  background: #f9bf3b;
+}
+.shop-login form .login-button:hover, .shop-login form .login-button:focus, .shop-register form .login-button:hover, .shop-register form .login-button:focus {
+  background: #f9bf3b;
+}
+
+/*==========================================*/
+/*       My Account Edit
+/*==========================================*/
+.my-account-edit .my-account-form .title-icon {
+  background: #f9bf3b;
+}
+.my-account-edit .my-account-form .right-form .cards li i:hover {
+  color: #f9bf3b;
+}
+.my-account-edit .my-account-form .save-button .def-btn:hover {
+  background: #f9bf3b;
+}
+
+/*==========================================*/
+/*       30 - Index Agency
+/*==========================================*/
+.agency-team .team-member .image .overlay .content-link .link-wrap a {
+  border: 1px solid #f9bf3b;
+}
+.agency-team .team-member .image .overlay .content-link .link-wrap a:hover {
+  background: #f9bf3b;
+}
+.agency-team .name:after {
+  background: #f9bf3b;
+}
+.agency-team .owl-controls .owl-pagination .owl-page.active span {
+  background: #f9bf3b;
+}
+
+.agency-about-image .right-content h3:after {
+  background: #f9bf3b;
+}
+
+/*==========================================*/
+/*            Index Portfolio
+/*==========================================*/
+.portfolio-item .portfolio-figure:hover figcaption {
+  background: rgba(249, 191, 59, 0.9);
+}
+
+/*==========================================*/
+/*          Responsive Settings
+/*==========================================*/
+@media (max-width: 767px) {
+  .navbar-inverse .navbar-toggle {
+    border: 1px solid #f9bf3b;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+  }
+  .navbar-inverse .navbar-toggle span.icon-bar {
+    background: #f9bf3b;
+  }
+  .navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    background: #f9bf3b;
+  }
+  .navbar-inverse .navbar-collapse ul.navbar-nav li.active {
+    color: #f9bf3b;
+  }
+  .navbar-inverse .navbar-collapse ul.navbar-nav li a:hover {
+    background: #f9bf3b;
+  }
+  .navbar-inverse .navbar-collapse ul.navbar-nav li.dropdown a:hover, .navbar-inverse .navbar-collapse ul.navbar-nav li.dropdown a:focus, .navbar-inverse .navbar-collapse ul.navbar-nav li.dropdown a:active {
+    background: #f9bf3b;
+  }
+}
